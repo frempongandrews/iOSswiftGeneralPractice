@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D493A0392F79AB52710F47D77FB631FEB9EC8FD0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E4949811CD39A56FF49F48EBB6FBAC83526EE198" : 9223372036854775807,
+    "D493A0392F79AB52710F47D77FB631FEB9EC8FD0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "687BEB7A-65D1-4D3B-8EF5-A0D8485C1743",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E4949811CD39A56FF49F48EBB6FBAC83526EE198" : "",
+    "D493A0392F79AB52710F47D77FB631FEB9EC8FD0" : "GeneralPractice\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "03-uiSegmentedControl-programmatic",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "03-uiSegmentedControl-programmatic\/03-uiSegmentedControl-programmatic.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/frempongandrews\/iOSswiftGeneralPractice.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D493A0392F79AB52710F47D77FB631FEB9EC8FD0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/frempongandrews\/swiftGeneralPractice.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E4949811CD39A56FF49F48EBB6FBAC83526EE198"
+    }
+  ]
+}
